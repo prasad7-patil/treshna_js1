@@ -1,0 +1,16 @@
+//single line arrow function
+// var sum=(a,b)=>(a+b)
+
+// console.log(sum(5,5));
+
+//multi line function
+
+var sum=(a,b)=>{
+    if (a>b) {
+        return "a is greater"
+    }
+    else{
+        return "b is greater"
+    }
+}
+console.log(sum(10,100));
