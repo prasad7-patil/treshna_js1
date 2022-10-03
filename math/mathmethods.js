@@ -1,0 +1,10 @@
+console.log(Math.abs(100.37800));
+console.log(Math.abs(200.1000));
+console.log(Math.round(36.87));
+console.log(Math.round(9.11));
+console.log(Math.min(100,10,200));
+console.log(Math.max(100,10,200));
+console.log(Math.floor(19.88));//19
+console.log(Math.ceil(19.88));//24
+console.log(Math.random()*10);
+console.log(Math.random());
